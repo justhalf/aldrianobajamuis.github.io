@@ -11,9 +11,9 @@ title                    : "Aldrian Obaja Muis"
 title_separator          : "-"
 name                     : &name "Aldrian Obaja Muis"
 description              : &description "Language technology student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://justhalf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "justhalf/aldrianobajamuis.github.io"
+repository               : "justhalf/justhalf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
