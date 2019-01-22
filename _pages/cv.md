@@ -12,7 +12,7 @@ redirect_from:
 
 Summary 
 ======
-Below is a summary of my CV, to see the full CV, click [here](files/Aldrian_Obaja_CV.pdf)
+Below is a summary of my CV, to see the full CV, click [here](/files/Aldrian_Obaja_CV.pdf)
 
 Education
 ======
