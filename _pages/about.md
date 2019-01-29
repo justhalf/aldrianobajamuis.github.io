@@ -23,4 +23,4 @@ complexity of a model my colleague proposed for entity recognition (see [Efficie
  Named Entity Recognition](/publication/2017-01-01-dependency-guided-ner)).
 
  I also enjoy teaching, and is currently preparing for PhD to better qualify myself for teaching
- positions.
+ positions, although I am open for industry positions as well.
