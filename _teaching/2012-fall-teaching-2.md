@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - NUS - 2012"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2012-fall-teaching-2

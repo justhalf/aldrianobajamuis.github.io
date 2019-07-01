@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - CMU - 2018"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2018-fall-teaching-3

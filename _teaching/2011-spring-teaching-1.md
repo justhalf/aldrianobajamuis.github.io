@@ -1,5 +1,5 @@
 ---
-title: "Lab Assistant"
+title: "Lab Assistant - NUS - 2011"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-spring-teaching-1
