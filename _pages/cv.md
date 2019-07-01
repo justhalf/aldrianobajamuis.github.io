@@ -17,7 +17,7 @@ Below is a summary of my CV, to see the full CV, click [here](/files/Aldrian_Oba
 Education
 ======
 * B.Comp. in Computer Science, National University of Singapore, 2013
-* M.S. in Language Technology, Carnegie Mellon University, 2019 (expected)
+* M.S. in Language Technology, Carnegie Mellon University, 2019
 
 Work experience
 ======
@@ -42,11 +42,11 @@ Publications
 <!--    {% include archive-single-talk-cv.html %}-->
 <!--  {% endfor %}</ul>-->
   
-<!--Teaching-->
-<!--======-->
-<!--  <ul>{% for post in site.teaching %}-->
-<!--    {% include archive-single-cv.html %}-->
-<!--  {% endfor %}</ul>-->
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 <!--Service and leadership-->
 <!--======-->
