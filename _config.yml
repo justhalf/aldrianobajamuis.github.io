@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-SG"
 title                    : "Aldrian Obaja Muis"
 title_separator          : "-"
 name                     : &name "Aldrian Obaja Muis"
-description              : &description "Language technology student"
+description              : &description "Senior Data Scientist"
 url                      : https://justhalf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "justhalf/justhalf.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Aldrian Obaja Muis"
   avatar           : "aldrian.jpg"
   bio              : "Currently working with methods related to language technology, was trained as a mathematician."
-  location         : "Pittsburgh, PA, United States"
+  location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=AgsNlIoAAAAJ&hl=en"
-  email            :
+  email            : "aldrianobaja.m@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

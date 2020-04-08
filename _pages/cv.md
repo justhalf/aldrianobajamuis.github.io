@@ -16,19 +16,25 @@ Below is a summary of my CV, to see the full CV, click [here](/files/Aldrian_Oba
 
 Education
 ======
-* B.Comp. in Computer Science, National University of Singapore, 2013
 * M.S. in Language Technology, Carnegie Mellon University, 2019
+* B.Comp. in Computer Science, National University of Singapore, 2013
 
 Work experience
 ======
-* 2013-2015: Research Engineer
-  * Knorex Pte. Ltd.
-  * Building research prototype related to Natural Language Processing tools
+
+* 2019-2020: Senior Data Scientist
+  * **Traveloka Technology Pte Ltd**
+  * Managing chatbot project affecting customer service cases with an estimated value of US$1.8mio annually
+  * Responsible for both the technical aspects and communication with business stakeholders
 
 * 2015-2017: Research Assistant
-  * Singapore University of Technology and Design
+  * **Singapore University of Technology and Design**
   * Worked with Professor [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei) on graphical
     models
+
+* 2013-2015: Research Engineer
+  * **Knorex Pte. Ltd.**
+  * Building research prototype related to Natural Language Processing tools
 
 Publications
 ======
