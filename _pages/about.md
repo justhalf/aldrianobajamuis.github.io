@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student at Carnegie Mellon University (CMU), currently working
+I am currently a senior data scientist at Traveloka Technology Pte Ltd (Traveloka), working on
+chatbot project, mainly to help reduce the burden of customer service agents by automating some
+routine cases.
+
+Prior to that, I finished my master's study at Carnegie Mellon University (CMU), working
 on low-resource event-type detection under the supervision of [Teruko
 Mitamura](https://www.cs.cmu.edu/~teruko/) and [Eduard Hovy](https://www.cs.cmu.edu/~hovy/)
 
