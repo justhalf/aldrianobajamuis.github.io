@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I am currently looking for jobs**
+
 I am currently a senior data scientist at Traveloka Technology Pte Ltd (Traveloka), working on
 chatbot project, mainly to help reduce the burden of customer service agents by automating some
 routine cases.
