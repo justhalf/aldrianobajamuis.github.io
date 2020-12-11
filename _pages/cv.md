@@ -22,6 +22,11 @@ Education
 Work experience
 ======
 
+* 2020-Present: Data Scientist (Mechanism Design)
+  * *A tech startup (stealth mode)*
+  * Designing and developing the mechanism for the product that we are building from the game theoretic and
+    statsitical point of view
+
 * 2019-2020: Senior Data Scientist
   * **Traveloka Technology Pte Ltd**
   * Managing chatbot project affecting customer service cases with an estimated value of US$1.8mio annually

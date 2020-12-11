@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently looking for jobs**
-
-I am currently a senior data scientist at Traveloka Technology Pte Ltd (Traveloka), working on
-chatbot project, mainly to help reduce the burden of customer service agents by automating some
-routine cases.
+I am currently working as a data scientist at a startup, working on designing the mechanism for the
+product that we are building.
 
 Prior to that, I finished my master's study at Carnegie Mellon University (CMU), working
 on low-resource event-type detection under the supervision of [Teruko
@@ -28,6 +25,6 @@ Being trained as a mathematician, I am particularly proud of my work on proving 
 complexity of a model my colleague proposed for entity recognition (see [Efficient Dependency-guided
  Named Entity Recognition](/publication/2017-01-01-dependency-guided-ner)).
 
-I also enjoy teaching, and is currently preparing for PhD to better qualify myself for teaching
-positions, although I am interested in research industry positions as well (see my [CV](/cv) for my
-work experience)
+I also enjoy teaching, and is considering to do PhD to better qualify myself for teaching positions,
+although I am interested in research industry positions as well (see my [CV](/cv) for my work 
+experience)
